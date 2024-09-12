@@ -12,3 +12,5 @@ Akka is a toolkit and runtime for building highly concurrent, distributed, and r
 - **High Performance**: Akka is designed to be high performance and consumes lot less memory than traditional theading model.
 - **Java and Scala APIs**: Akka provides both Java and Scala APIs. You can use the one that you are comfortable with.
 - **Open Source**: Akka was open source but now it is now under BSL licence. However, there is open source equivalent called Pekko which is fork of Akka 2.6.
+
+The Akka toolkit consists of several modules, each of which provides a different set of features. The core module is `akka-actor` which provides the actor model. Other modules include `akka-remote`, `akka-cluster`, `akka-http`, `akka-streams`, etc.
