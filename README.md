@@ -1,5 +1,7 @@
 # Akka Actors
 
+- [Akka Tutorials](notes/akka/README.md)
+
 ## Introduction
 
 This is a simple example of how to use Akka Actors in Scala.
