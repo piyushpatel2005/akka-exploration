@@ -22,3 +22,11 @@ object Playground extends App {
   println(actorSystem.name)
 }
 ```
+
+Running individual codes.
+
+```shell
+sbt
+> project akkabook
+> run part1create.WalletApp
+```
